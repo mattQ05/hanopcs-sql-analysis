@@ -23,4 +23,10 @@ This project analyzes real PC sales data using SQLite and SQL to evaluate profit
 - SQL
 - DB Browser for SQLite
 
-*dates are from 2025, but data shows 2024*
+## Pricing Optimization (Python)
+
+After completing the SQL analysis, the SQLite database was loaded into Python using pandas to further evaluate pricing strategy. Prices were grouped into ranges to identify an optimal balance between profit and time-to-sale.
+
+Analysis showed that PCs priced between **$600–699** achieved the highest average profit (~$213) while also selling faster than most other ranges (~4.8 days), identifying this range as the pricing sweet spot. Visualizations were created to compare profit and sales velocity across price tiers.
+
+*dates are from 2025, but some data displays 2024*
