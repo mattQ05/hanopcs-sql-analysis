@@ -55,6 +55,21 @@ Results showed that **RTX 30-series GPUs** generated higher average profit and s
 
 ## Dashboard (Python)
 
+### Revenue & Profit Over Time
+![Revenue by month](screenshots/dashboard_revenue_by_month.png)
+![Profit by month](screenshots/dashboard_profit_by_month.png)
+
+### Pricing Optimization
+![Avg profit by price range](screenshots/dashboard_avg_profit_by_price_range.png)
+![Avg days to sell by price range](screenshots/dashboard_avg_days_by_price_range.png)
+
+### Component Performance
+![Avg profit by GPU series](screenshots/dashboard_avg_profit_by_gpu_series.png)
+![Avg profit by CPU tier](screenshots/dashboard_avg_profit_by_cpu_tier.png)
+![Avg days to sell by RAM](screenshots/dashboard_avg_days_by_ram.png)
+
+---
+
 ### Monthly performance (SQL → Python)
 ![Monthly summary](screenshots/monthly_summary.png)
 ![Overall averages](screenshots/overall_averages.png)
