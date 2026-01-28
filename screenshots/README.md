@@ -13,6 +13,8 @@
 ![Sales table schema](sales_table_schema.png)
 
 ### Pricing optimization analysis
+![Price range summary table](price_range_summary_table.png)
+
 ![Avg profit by price range](avg_profit_by_price_range.png)
 
 ![Avg days to sell by price range](avg_days_by_price_range.png)
