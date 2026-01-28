@@ -36,3 +36,22 @@ To understand what hardware choices drive profit and sales speed, a relational `
 Key findings showed that **RTX 30-series GPUs** generated higher average profit and sold faster than RTX 20-series builds, while **higher-tier CPUs** correlated with both increased profit and quicker sales. Increasing RAM from 16 GB to 32 GB provided minimal profit improvement and slightly slower turnover.
 
 *dates are from 2025, but some data displays 2024*
+## Screenshots
+
+## Screenshots
+
+### Monthly performance summary (SQL)
+![Monthly summary](screenshots/monthly_summary.png)
+
+### Overall averages & high-profit comparison (SQL)
+![Overall averages](screenshots/overall_averages.png)
+![High-profit averages](screenshots/high_profit_averages.png)
+
+### Pricing optimization (Python)
+![Avg profit by price range](screenshots/avg_profit_by_price_range.png)
+![Avg days to sell by price range](screenshots/avg_days_by_price_range.png)
+
+### Component-level analysis (SQL JOINs)
+![RAM vs profit and days](screenshots/ram_vs_profit_days.png)
+![GPU series performance](screenshots/gpu_series_performance.png)
+![CPU tier performance](screenshots/cpu_tier_performance.png)
