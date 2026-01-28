@@ -52,6 +52,10 @@ To understand how hardware choices affect outcomes, a relational `builds` table 
 Results showed that **RTX 30-series GPUs** generated higher average profit and sold faster than RTX 20-series builds, while **higher-tier CPUs** correlated with both increased profit and quicker sales. Increasing RAM from 16 GB to 32 GB provided minimal profit improvement and slightly slower turnover.
 
 ---
+## Interactive Dashboard (image)
+[Power BI Dashboard](screenshots/full_Dashboard.png)
+
+---
 
 ## Dashboard (Python)
 
