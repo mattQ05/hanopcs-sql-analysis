@@ -53,7 +53,7 @@ Results showed that **RTX 30-series GPUs** generated higher average profit and s
 
 ---
 ## Interactive Dashboard (image)
-[Power BI Dashboard](screenshots/full_Dashboard.png)
+![Power BI Dashboard](screenshots/full_Dashboard.png)
 
 ---
 
