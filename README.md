@@ -4,7 +4,7 @@
 This project analyzes real PC sales data using SQLite and SQL to evaluate profitability, pricing efficiency, and time-to-sale for a small PC reselling business.
 
 ## Dataset
-- 20 PC sales from March–July 2024  
+- 20 PC sales from March–July 2025*  
 - Sale dates were approximated due to missing timestamps  
 - Metrics include price, cost, profit, and days-to-sell
 
@@ -22,3 +22,5 @@ This project analyzes real PC sales data using SQLite and SQL to evaluate profit
 - SQLite
 - SQL
 - DB Browser for SQLite
+
+*dates are from 2025, but data shows 2024*
