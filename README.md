@@ -75,10 +75,6 @@ Results showed that **RTX 30-series GPUs** generated higher average profit and s
 ![Overall averages](screenshots/overall_averages.png)
 ![High-profit averages](screenshots/high_profit_averages.png)
 
-### Pricing optimization
-![Avg profit by price range](screenshots/avg_profit_by_price_range.png)
-![Avg days to sell by price range](screenshots/avg_days_by_price_range.png)
-
 ### Component-level analysis (SQL JOINs)
 ![RAM vs profit and days](screenshots/ram_vs_profit_days.png)
 ![GPU series performance](screenshots/gpu_series_performance.png)
