@@ -29,4 +29,10 @@ After completing the SQL analysis, the SQLite database was loaded into Python us
 
 Analysis showed that PCs priced between **$600–699** achieved the highest average profit (~$213) while also selling faster than most other ranges (~4.8 days), identifying this range as the pricing sweet spot. Visualizations were created to compare profit and sales velocity across price tiers.
 
+## Component-Level Performance Analysis (SQL JOINs)
+
+To understand what hardware choices drive profit and sales speed, a relational `builds` table was created and joined with the `sales` table using SQL. Component attributes such as GPU tier/series, RAM size, and CPU tier were analyzed against profit and days-to-sell.
+
+Key findings showed that **RTX 30-series GPUs** generated higher average profit and sold faster than RTX 20-series builds, while **higher-tier CPUs** correlated with both increased profit and quicker sales. Increasing RAM from 16 GB to 32 GB provided minimal profit improvement and slightly slower turnover.
+
 *dates are from 2025, but some data displays 2024*
